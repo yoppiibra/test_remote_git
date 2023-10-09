@@ -17,4 +17,9 @@ mengambil revisi tanpa menggabungkan atau merge terhadap repository local
 2. git fetch main origin main
 3. cek perubahan di origin maim $git log main origin/main
 4. cek perbedaan di origin main $git diff main origin/main
-5. gadungkan menggunakan merge $git merge main origin/main 
+5. gadungkan menggunakan merge $git merge main origin/main
+
+# git pull
+menggambil revisi langsung menggabungkan dengan git local 
+### example jika ada yang menambahkan file baru maka
+1. git pull origin main
