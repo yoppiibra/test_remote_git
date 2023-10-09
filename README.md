@@ -23,3 +23,10 @@ mengambil revisi tanpa menggabungkan atau merge terhadap repository local
 menggambil revisi langsung menggabungkan dengan git local 
 ### example jika ada yang menambahkan file baru maka
 1. git pull origin main
+
+
+# clone git atau copy git
+1. mau di letakan di directory mana
+   - cd ~/Documents
+2. git clone <url git yang mau di clone atau copy> + .git
+   -   git clone https://github.com/yoppiibra/test_remote_git.git
