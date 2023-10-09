@@ -28,5 +28,5 @@ menggambil revisi langsung menggabungkan dengan git local
 # clone git atau copy git
 1. mau di letakan di directory mana
    - cd ~/Documents
-2. git clone <url git yang mau di clone atau copy> + .git
+2. git clone (url git yang mau di clone atau copy) + .git
    -   git clone https://github.com/yoppiibra/test_remote_git.git
