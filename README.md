@@ -1,6 +1,7 @@
 # test_remote_git
 
-Langkah membuat git remote dari git local samai upload di github
+Langkah membuat git remote dari git local sampai upload di github
+ ###### jika ada already origin main maka di remove dulu $git remote remove origin
 1. git init
 2. git remote
 3. copas git remote origin
